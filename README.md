@@ -6,4 +6,8 @@ This repository acts just as a binary mirror for Easybuild as the original downl
 
 website: http://www.astro.wisc.edu/~townsend/static.php?ref=mesasdk
 
+## Tarballs
+
+here: https://github.com/jose-d/mesa-sdk-binary-mirror/releases
+
 mirror updated: 18.3.2019
