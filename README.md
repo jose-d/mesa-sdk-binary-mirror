@@ -10,4 +10,4 @@ website: http://www.astro.wisc.edu/~townsend/static.php?ref=mesasdk
 
 here: https://github.com/jose-d/mesa-sdk-binary-mirror/releases
 
-mirror updated: 18.3.2019
+mirror updated: 2.7.2019.
